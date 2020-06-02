@@ -9,3 +9,9 @@ in this project created a haddoop cluster
 2. uploaded the base image named melbsmelbs/ubuntu-hadoop
 3. hadoop cluster can start using docker-compose
 4. all comments and action are listed in dockerfile
+
+how to run
+1. docker build .
+-build first the docker file
+2. docker-compose up
+-run using docker-compose
